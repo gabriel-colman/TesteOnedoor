@@ -6,15 +6,15 @@ Foi feito somente no Backend - API Rest
 O serviço é uma entidade responsável pelo armazenamento dos dados de serviços e deve
 possuir as operações bases (criar, listar, atualizar e deletar).
 
-Feramenta utilizadas foram:
-Framework/lib | Versão Recomendada | S.O Utilizado
---- | --- | ---
---- | --- | ---
-Maven	| 3.6.3	| Windows
-JDK	| 8	| Windows
-Docker	| 19.03.13 | Windows
-Docker Compose |	1.27.4	| Windows
-VSCode(Com todas bibliotecas necessárias do Maven)	| -	| Windows
+Feramenta utilizadas(no Windows) foram:
+
+Framework/lib | Versão Recomendada
+--- | --- 
+Maven	| 3.6.3	
+JDK	| 8	
+Docker	| 19.03.13 
+Docker Compose |	1.27.4	
+VSCode(Com todas bibliotecas necessárias do Maven)	| -	
 
 ## Execução do projeto
 ### Passo 1
