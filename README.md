@@ -7,6 +7,8 @@ O serviço é uma entidade responsável pelo armazenamento dos dados de serviço
 possuir as operações bases (criar, listar, atualizar e deletar).
 
 Feramenta utilizadas foram:
+Framework/lib | Versão Recomendada | S.O Utilizado
+--- | --- | ---
 --- | --- | ---
 Maven	| 3.6.3	| Windows
 JDK	| 8	| Windows
